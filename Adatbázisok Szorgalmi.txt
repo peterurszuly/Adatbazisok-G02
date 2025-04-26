@@ -1,17 +1,9 @@
 Adatbázisok Szorgalmi
-https://learn.microsoft.com/api/achievements/share/en-us/
-UrszulyPterBenedek-5340/VJ4J6SSM?sharingId=A91AC147CF070DC1
-https://learn.microsoft.com/api/achievements/share/en-us/
-UrszulyPterBenedek-5340/NVAVD89F?sharingId=A91AC147CF070DC1
-https://learn.microsoft.com/api/achievements/share/en-us/
-UrszulyPterBenedek-5340/W2A7VYRN?sharingId=A91AC147CF070DC1
-https://learn.microsoft.com/api/achievements/share/en-us/
-UrszulyPterBenedek-5340/QSDJCBYE?sharingId=A91AC147CF070DC1
-https://learn.microsoft.com/api/achievements/share/en-us/
-UrszulyPterBenedek-5340/NVZTHKZF?sharingId=A91AC147CF070DC1
-https://learn.microsoft.com/api/achievements/share/en-us/
-UrszulyPterBenedek-5340/4G5FQFFK?sharingId=A91AC147CF070DC1
-https://learn.microsoft.com/api/achievements/share/en-us/
-UrszulyPterBenedek-5340/XQV5W5LY?sharingId=A91AC147CF070DC1
 
-
+https://learn.microsoft.com/en-us/users/urszulypterbenedek-5340/achievements/vj4j6ssm
+https://learn.microsoft.com/en-us/users/urszulypterbenedek-5340/achievements/nvavd89f
+https://learn.microsoft.com/en-us/users/urszulypterbenedek-5340/achievements/w2a7vyrn
+https://learn.microsoft.com/en-us/users/urszulypterbenedek-5340/achievements/qsdjcbye
+https://learn.microsoft.com/en-us/users/urszulypterbenedek-5340/achievements/nvzthkzf
+https://learn.microsoft.com/en-us/users/urszulypterbenedek-5340/achievements/4g5fqffk
+https://learn.microsoft.com/en-us/users/urszulypterbenedek-5340/achievements/xqv5w5ly
